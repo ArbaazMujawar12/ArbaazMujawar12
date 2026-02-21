@@ -129,13 +129,11 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 
 <p align="left">
   <a href="https://www.credly.com/badges/7003f52b-8a4e-4ce1-9200-f04ca3077545">
-    <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Credly-FF6C37?style=for-the-badge&logo=credly&logoColor=white"/>
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CE006E3A40A7B0A238933D8115DD4C3E7738C22D30AE35E4DEB8F67ADA518628">
-    <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Oracle_University-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png"/>
   </a>
 </p>
 
@@ -144,9 +142,12 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arbaazmujawar01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ArbaazMujawar12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="http://arbaazmujawar.cloud/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arbaazmujawar01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ArbaazMujawar12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:arbaazmujawar01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -154,5 +155,7 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArbaazMujawar12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <p>⭐️ From [Arbaaz Mujawar](https://github.com/ArbaazMujawar12)</p>
+  <br>
+  <br>
+  <p>⭐️ From <a href="https://github.com/ArbaazMujawar12"><strong>Arbaaz Mujawar</strong></a></p>
 </div>
