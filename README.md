@@ -129,7 +129,7 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 
 <p align="left">
   <a href="https://www.credly.com/badges/7003f52b-8a4e-4ce1-9200-f04ca3077545" target="_blank" title="Click to verify AWS Certification">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="350" height="350" alt="AWS Certified Cloud Practitioner"/>
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="250" height="250" alt="AWS Certified Cloud Practitioner"/>
     <br>
     <strong>AWS Certified Cloud Practitioner</strong> (2026)
   </a>
