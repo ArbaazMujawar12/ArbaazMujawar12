@@ -119,9 +119,7 @@ Built a highly available 3-tier architecture across 2 Availability Zones with pr
 
 ### [Node.js Application Deployment to Target Server using Jenkins Pipeline](https://github.com/ArbaazMujawar12/node-app-with-jenkins-CICD.git)
 **Tech Stack:** Jenkins Pipeline, GitHub Webhook, SSH Agent Plugin, Linux, Node.js  
-Designed and implemented an end-to-end CI/CD pipeline to automate the build and deployment of a Node.js application. Configured GitHub Webhooks to trigger Jenkins pipelines on code push, integrated SSH Agent for secure remote server authentication, and enabled automated deployment to a target Linux server.  
-
-Implemented build stages, environment setup, and remote execution scripts to ensure seamless and reliable application delivery with zero manual intervention.
+Designed and implemented an end-to-end CI/CD pipeline to automate the build and deployment of a Node.js application. Configured GitHub Webhooks to trigger Jenkins pipelines on code push, integrated SSH Agent for secure remote server authentication, and enabled automated deployment to a target Linux server.
 
 ### [Cloud-Based Node.js Application Deployment on AWS](https://github.com/ArbaazMujawar12/Cloud-Deployment-Projects/blob/main/SpendSmart/readme.md)
 **Tech Stack:** AWS EC2, Nginx, Node.js, PM2, RDS MySQL  
