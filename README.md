@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arbaaz Mujawar</h1>
-<h3 align="center">AWS Certified Cloud Practitioner | DevOps Enthusiast | Cloud Engineer</h3>
+<h3 align="center">AWS Certified Cloud Practitioner | Cloud & DevOps Engineer</h3>
 
 <p align="center">
+  <a href="http://arbaazmujawar.cloud/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arbaazmujawar01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ArbaazMujawar12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="http://arbaazmujawar.cloud/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:arbaazmujawar01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -14,12 +14,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm an **AWS Certified Cloud Practitioner** with hands-on experience in designing and deploying highly available, scalable cloud architectures. Passionate about DevOps practices and automation, I enjoy building production-ready systems using cloud-native technologies.
+I design and deploy production-grade cloud infrastructure on AWS with a strong focus on high availability, scalability, and security.
+With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, and CI/CD automation, I specialize in transforming applications into reliable cloud-native systems.
 
 - 🌩️ **AWS Certified** with hands-on experience in EC2, ALB, ASG, RDS, VPC, and IAM
-- 🔭 I’m currently working on **advanced DevOps projects with Docker & Kubernetes**
+- 🏗️ Designed 3-Tier AWS Architecture across 2 AZs
+- 🔁 Implemented CI/CD pipelines using **Jenkins**
+- 🔭 I’m currently working on **DevOps projects with Docker & Kubernetes**
 - 🌱 I’m currently learning **Docker, Jenkins, GitHub Actions, and Terraform**
-- 👨‍💻 All of my projects are available at **[My GitHub Repositories]**
 - 💬 Ask me about **AWS Architecture, Cloud Deployment, and Linux**
 - 📫 Reach me at **arbaazmujawar01@gmail.com**
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1dmy3JLLnrDVhZQXSYLXqNvhkGeZqz6Hb/view?usp=drive_link)** for more details
@@ -93,27 +95,6 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArbaazMujawar12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArbaazMujawar12&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbaazMujawar12&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArbaazMujawar12&theme=onedark&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -127,5 +108,5 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArbaazMujawar12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <p>⭐️ From [Arbaaz Mujawar] (https://github.com/ArbaazMujawar12)</p>
+  <p>⭐️ From [Arbaaz Mujawar](https://github.com/ArbaazMujawar12)</p>
 </div>
