@@ -117,6 +117,12 @@ Here are my featured AWS cloud projects:
 **Tech Stack:** AWS VPC, EC2, ALB, ASG, RDS, NAT Gateway, Nginx  
 Built a highly available 3-tier architecture across 2 Availability Zones with proper network isolation using public/private subnets, Internet Gateway, and NAT Gateway. Implemented Auto Scaling Groups for frontend (NGINX) and backend (PHP) with Application Load Balancers for fault-tolerant application delivery.
 
+### [Node.js Application Deployment to Target Server using Jenkins Pipeline](https://github.com/ArbaazMujawar12/node-app-with-jenkins-CICD.git)
+**Tech Stack:** Jenkins Pipeline, GitHub Webhook, SSH Agent Plugin, Linux, Node.js  
+Designed and implemented an end-to-end CI/CD pipeline to automate the build and deployment of a Node.js application. Configured GitHub Webhooks to trigger Jenkins pipelines on code push, integrated SSH Agent for secure remote server authentication, and enabled automated deployment to a target Linux server.  
+
+Implemented build stages, environment setup, and remote execution scripts to ensure seamless and reliable application delivery with zero manual intervention.
+
 ### [Cloud-Based Node.js Application Deployment on AWS](https://github.com/ArbaazMujawar12/Cloud-Deployment-Projects/blob/main/SpendSmart/readme.md)
 **Tech Stack:** AWS EC2, Nginx, Node.js, PM2, RDS MySQL  
 Designed a production-ready three-tier cloud architecture with Nginx as reverse proxy and PM2 for process management. Secured database access using AWS RDS with private connectivity and environment variables following industry best practices.
