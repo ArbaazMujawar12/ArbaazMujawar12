@@ -1,12 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Arbaaz+Mujawar;+AWS+Certified+Cloud+Practitioner;+DevOps+Engineer+In+Progress;" />
 </h1>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/-Cloud%20Architecture-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-DevOps-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-</h3>
 <h3 align="center">AWS Certified Cloud Practitioner | Cloud & DevOps Engineer</h3>
 
 <p align="center">
