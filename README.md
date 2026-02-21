@@ -129,18 +129,12 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 
 <p align="left">
   <a href="https://www.credly.com/badges/7003f52b-8a4e-4ce1-9200-f04ca3077545">
-    <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&logoWidth=30"/>
+    <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&label=✓%20Verified"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CE006E3A40A7B0A238933D8115DD4C3E7738C22D30AE35E4DEB8F67ADA518628">
-    <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&logoWidth=30"/>
+    <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&label=✓%20Verified"/>
   </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/🏅_AWS_Cloud_Practitioner_(2026)-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/🏅_Oracle_Cloud_Foundations_(2025)-000000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
 ---
