@@ -130,17 +130,17 @@ Architected a fault-tolerant web application using Application Load Balancer wit
 <p align="left">
   <a href="https://www.credly.com/badges/7003f52b-8a4e-4ce1-9200-f04ca3077545" target="_blank" title="Click to verify AWS Certification">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" height="110" alt="AWS Certified Cloud Practitioner"/>
+    <strong>AWS Certified Cloud Practitioner</strong> (2026)
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
+<p align="left">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CE006E3A40A7B0A238933D8115DD4C3E7738C22D30AE35E4DEB8F67ADA518628" target="_blank" title="Click to verify Oracle Certification">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="110" height="110" alt="Oracle Cloud Foundations Associate"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" width="350" height="350" alt="Oracle Cloud Foundations Associate"/>
+    <strong>Oracle Cloud Foundations Associate</strong> (2025)
   </a>
 </p>
-
-<p align="left">
-  <strong>AWS Certified Cloud Practitioner</strong> (2026) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Oracle Cloud Foundations Associate</strong> (2025)
-</p>
-
 ---
 
 ## 📫 Connect With Me
