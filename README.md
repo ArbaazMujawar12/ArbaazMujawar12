@@ -32,42 +32,46 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
 
 ### ☁️ Cloud & Infrastructure
 <div align="left">
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS Official Website">
-    <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws" />
+  <!-- AWS Core -->
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="45" alt="AWS"/>
   </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" title="Amazon EC2 - Virtual Servers in the Cloud">
-    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+  
+  <!-- Compute -->
+  <a href="https://aws.amazon.com/ec2/" target="_blank" title="EC2">
+    <img src="https://img.icons8.com/color/48/amazon-ec2.png" height="45" alt="EC2"/>
   </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" title="Amazon S3 - Scalable Storage in the Cloud">
-    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=2D4B2D" />
+  <a href="https://aws.amazon.com/lambda/" target="_blank" title="Lambda">
+    <img src="https://img.icons8.com/color/48/aws-lambda.png" height="45" alt="Lambda"/>
   </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank" title="Amazon RDS - Managed Relational Database">
-    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=1A2B4C" />
+  
+  <!-- Storage -->
+  <a href="https://aws.amazon.com/s3/" target="_blank" title="S3">
+    <img src="https://img.icons8.com/color/48/amazon-s3.png" height="45" alt="S3"/>
   </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank" title="AWS Lambda - Serverless Computing">
-    <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=2F2F2F" />
+  
+  <!-- Database -->
+  <a href="https://aws.amazon.com/rds/" target="_blank" title="RDS">
+    <img src="https://img.icons8.com/color/48/amazon-rds.png" height="45" alt="RDS"/>
   </a>
-  <a href="https://aws.amazon.com/iam/" target="_blank" title="AWS IAM - Identity and Access Management">
-    <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=5B3C2B" />
+  
+  <!-- Networking & Security -->
+  <a href="https://aws.amazon.com/vpc/" target="_blank" title="VPC">
+    <img src="https://img.icons8.com/color/48/virtual-machine.png" height="45" alt="VPC"/>
   </a>
-  <a href="https://aws.amazon.com/vpc/" target="_blank" title="Amazon VPC - Virtual Private Cloud">
-    <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=3B5249" />
+  <a href="https://aws.amazon.com/iam/" target="_blank" title="IAM">
+    <img src="https://img.icons8.com/color/48/iam.png" height="45" alt="IAM"/>
   </a>
-  <a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud Infrastructure">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000" />
-  </a>
+  
 </div>
 
 ### 🔧 DevOps & Automation
 <div align="left">
-  <a href="https://www.docker.com/" target="_blank" title="Docker - Container Platform">
-    <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
-  </a>
   <a href="https://www.jenkins.io/" target="_blank" title="Jenkins - Automation Server">
     <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins" />
   </a>
-  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions - CI/CD">
-    <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="github actions" />
+  <a href="https://www.docker.com/" target="_blank" title="Docker - Container Platform">
+    <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
   </a>
   <a href="https://git-scm.com/" target="_blank" title="Git - Version Control">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git" />
@@ -77,9 +81,6 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
   </a>
   <a href="https://www.nginx.com/" target="_blank" title="Nginx - Web Server & Reverse Proxy">
     <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx" />
-  </a>
-  <a href="https://pm2.keymetrics.io/" target="_blank" title="PM2 - Node.js Process Manager">
-    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white&labelColor=1A014A" />
   </a>
 </div>
 
