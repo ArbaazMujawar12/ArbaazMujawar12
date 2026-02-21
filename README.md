@@ -3,8 +3,11 @@
 
 <p align="center">
   <a href="http://arbaazmujawar.cloud/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arbaazmujawar01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ArbaazMujawar12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:arbaazmujawar01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -30,13 +33,8 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
 
 ## 🛠️ Technical Skills
 
-### ☁️ Cloud & Infrastructure
+### ☁️ AWS Cloud & Infrastructure
 <div align="left">
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="45" alt="AWS"/>
-  </a>
-  
   <!-- EC2 (using AWS icon with text) -->
   <a href="https://aws.amazon.com/ec2/" target="_blank" title="EC2 - Elastic Compute Cloud">
     <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" height="45" alt="EC2"/>
