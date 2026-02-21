@@ -41,27 +41,27 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
   <a href="https://aws.amazon.com/ec2/" target="_blank" title="EC2 - Elastic Compute Cloud">
     <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" height="45" alt="EC2"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <!-- S3 -->
   <a href="https://aws.amazon.com/s3/" target="_blank" title="S3 - Simple Storage Service">
     <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=2D4B2D" height="45" alt="S3"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <!-- RDS -->
   <a href="https://aws.amazon.com/rds/" target="_blank" title="RDS - Relational Database Service">
     <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=1A2B4C" height="45" alt="RDS"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <!-- Lambda -->
   <a href="https://aws.amazon.com/lambda/" target="_blank" title="Lambda">
     <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=2F2F2F" height="45" alt="Lambda"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <!-- IAM -->
   <a href="https://aws.amazon.com/iam/" target="_blank" title="IAM - Identity & Access Management">
     <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=5B3C2B" height="45" alt="IAM"/>
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <!-- VPC -->
   <a href="https://aws.amazon.com/vpc/" target="_blank" title="VPC - Virtual Private Cloud">
     <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=3B5249" height="45" alt="VPC"/>
