@@ -41,27 +41,27 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
   <a href="https://aws.amazon.com/ec2/" target="_blank" title="EC2 - Elastic Compute Cloud">
     <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" height="45" alt="EC2"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!-- S3 -->
   <a href="https://aws.amazon.com/s3/" target="_blank" title="S3 - Simple Storage Service">
     <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=2D4B2D" height="45" alt="S3"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!-- RDS -->
   <a href="https://aws.amazon.com/rds/" target="_blank" title="RDS - Relational Database Service">
     <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=1A2B4C" height="45" alt="RDS"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!-- Lambda -->
   <a href="https://aws.amazon.com/lambda/" target="_blank" title="Lambda">
     <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=2F2F2F" height="45" alt="Lambda"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!-- IAM -->
   <a href="https://aws.amazon.com/iam/" target="_blank" title="IAM - Identity & Access Management">
     <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=5B3C2B" height="45" alt="IAM"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!-- VPC -->
   <a href="https://aws.amazon.com/vpc/" target="_blank" title="VPC - Virtual Private Cloud">
     <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=3B5249" height="45" alt="VPC"/>
@@ -74,15 +74,19 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
   <a href="https://www.jenkins.io/" target="_blank" title="Jenkins - Automation Server">
     <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" title="Docker - Container Platform">
     <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" title="Git - Version Control">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" title="Linux - Operating System">
     <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.nginx.com/" target="_blank" title="Nginx - Web Server & Reverse Proxy">
     <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx" />
   </a>
@@ -93,15 +97,19 @@ With hands-on experience in 3-tier architecture, Auto Scaling, Load Balancers, a
   <a href="https://www.python.org/" target="_blank" title="Python Programming Language">
     <img src="https://skillicons.dev/icons?i=python" height="45" alt="python" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap Framework">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" title="MySQL Database">
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql" />
   </a>
